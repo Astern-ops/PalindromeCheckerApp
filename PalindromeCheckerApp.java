@@ -1,4 +1,4 @@
-public class UseCase9PalindromeCheckerApp {
+public class PalindromeCheckerApp {
     public static void main(String[] args) {
         String input = "madam";
         boolean isPalindrome = check(input, 0, input.length() - 1);
