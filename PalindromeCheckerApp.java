@@ -26,7 +26,7 @@
  * @version 12.0
  */
 
-public class UseCase12PalindromeCheckerApp {
+public class PalindromeCheckerApp {
 
     /**
      * Application entry point for UC12.
