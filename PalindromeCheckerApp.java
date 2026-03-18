@@ -2,7 +2,7 @@ import java.util.Queue;
 import java.util.LinkedList;
 import java.util.Stack;
 
-public class UseCase6PalindromeCheckerApp {
+public class PalindromeCheckerApp {
     public static void main(String[] args) {
         String input = "civic";
         Queue<Character> queue = new LinkedList<>();
